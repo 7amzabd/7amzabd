@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning ... coding (WEB development- GAME development....)
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... hamza.bder@skiff.com 
+Hamza Bder  
+Software Engineer | Front-End Developer  
+📧 hamoz2013@gmail.com | 📞 +90 552 727 0601 | 🌍 Istanbul, Turkey  
+🔗 linkedin.com/in/hamza-bder-9a1350147
 
 <!---
 7amzabd/7amzabd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
