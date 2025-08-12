@@ -2,7 +2,6 @@
 - 👀 I’m interested in ... learning languages and coding 
 - 🌱 I’m currently learning ... coding (WEB development- GAME development....)
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... hamza.bder@skiff.com 
 Hamza Bder  
 Software Engineer | Front-End Developer  
 📧 hamoz2013@gmail.com | 📞 +90 552 727 0601 | 🌍 Istanbul, Turkey  
