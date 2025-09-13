@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @7amzabd
+- 👋 Hi, I’m Hamza Bder
 - 👀 I’m interested in ... learning languages and coding 
 - 🌱 I’m currently learning ... coding (WEB development- GAME development....)
 - 💞️ I’m looking to collaborate on ... 
 Hamza Bder  
 Software Engineer | Front-End Developer  
-📧 hamoz2013@gmail.com | 📞 +90 552 727 0601 | 🌍 Istanbul, Turkey  
+📧 hamza.abd.bder@gmail.com | 📞 +90 552 727 0601 | 🌍 Istanbul, Turkey  
 🔗 linkedin.com/in/hamza-bder-9a1350147
 
 <!---
